@@ -1,0 +1,6 @@
+{
+  "name": "ECE Digital Electronics Quiz Simulator",
+  "description": "Interactive, responsive ECE Digital Electronics Quiz Simulator with timer, browser violation monitoring, randomized question bank, certificate generation, and hidden admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

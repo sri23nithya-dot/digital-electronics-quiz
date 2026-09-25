@@ -1,0 +1,40 @@
+{
+  "quizTitle": "ECE Digital Electronics Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the two basic voltage levels represented in binary digital circuits?",
+      "options": ["HIGH and LOW", "AC and DC", "POSITIVE and NEGATIVE", "UP and DOWN"],
+      "answer": "HIGH and LOW"
+    },
+    {
+      "id": 2,
+      "question": "Which logic gate produces output 1 only when all its inputs are 1?",
+      "options": ["AND", "OR", "NOR", "XOR"],
+      "answer": "AND"
+    },
+    {
+      "id": 3,
+      "question": "Which logic gate produces output 1 when at least one input is 1?",
+      "options": ["OR", "AND", "NOR", "NAND"],
+      "answer": "OR"
+    },
+    {
+      "id": 4,
+      "question": "Which logic gate is also called an inverter?",
+      "options": ["NOT", "AND", "BUFFER", "OR"],
+      "answer": "NOT"
+    },
+    {
+      "id": 5,
+      "question": "Why is the NAND gate called a 'universal gate'?",
+      "options": [
+        "Any Boolean function can be implemented using only NAND gates",
+        "It operates at universal voltage levels",
+        "It can accept an infinite number of inputs",
+        "It never dissipates thermal power"
+      ],
+      "answer": "Any Boolean function can be implemented using only NAND gates"
+    }
+  ]
+}
